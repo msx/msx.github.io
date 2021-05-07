@@ -5,7 +5,7 @@
 #baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
 #paginate: 1
-permalink: /:slug
+permalink: /:slug.js
 
 #exclude: ["less","README.md"]
 
